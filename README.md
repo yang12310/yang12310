@@ -14,6 +14,9 @@
 ![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 
+![js](https://img.shields.io/badge/amazonwebservices?style=for-the-badge&logo=react&logoColor=white)
+
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A371F7,10:3572A5,30:C6538C,75:DA5B0B,100:E34C26&height=40&section=footer&text=&fontSize=0" width="100%"/>
