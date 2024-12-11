@@ -6,13 +6,14 @@
 
   📚 Languages / Tools 📚
   
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A371F7,10:3572A5,30:C6538C,75:DA5B0B,100:E34C26&height=40&section=footer&text=&fontSize=0" width="100%"/>
